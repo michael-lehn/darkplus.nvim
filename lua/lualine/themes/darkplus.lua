@@ -26,8 +26,8 @@ return {
 	replace = { a = { fg = colors.bg, bg = colors.red }, b = { fg = colors.red, bg = colors.gray } },
 
 	inactive = {
-		a = { bg = colors.bg, fg = colors.blue },
-		b = { bg = colors.red, fg = colors.gray, gui = "bold" },
-		c = { bg = colors.bg, fg = colors.gray },
+		a = { fg = colors.bg, bg = colors.blue },
+		b = { fg = colors.blue, bg = colors.gray },
+		c = { fg = colors.fg, bg = colors.bg },
 	},
 }
