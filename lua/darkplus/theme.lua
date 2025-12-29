@@ -570,8 +570,8 @@ theme.set_highlights = function()
 	hl(0, "gitcommitHeader", { fg = c.blue_1, bg = "NONE" })
 
 	-- Rainbow
-	hl(0, "TSRainbowRed", { fg = "#f85149", bg = "NONE" })
-	hl(0, "TSRainbowYellow", { fg = "#ffd602", bg = "NONE" })
+	hl(0, "TSRainbowRed", { fg = "#DCDCAA", bg = "NONE" })
+	hl(0, "TSRainbowYellow", { fg = "#d7ba7d", bg = "NONE" })
 	hl(0, "TSRainbowBlue", { fg = "#169fff", bg = "NONE" })
 	hl(0, "TSRainbowOrange", { fg = "#db6d28", bg = "NONE" })
 	hl(0, "TSRainbowGreen", { fg = "#56d364", bg = "NONE" })
